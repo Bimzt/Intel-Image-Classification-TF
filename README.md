@@ -1,4 +1,4 @@
-# Klasifikasi Gambar Pemandangan Alam — Intel Image Classification
+# Klasifikasi Gambar Pemandangan Alam Intel Image Classification
 
 ## Deskripsi Proyek
 Proyek ini membangun model CNN (Convolutional Neural Network) untuk mengklasifikasikan gambar pemandangan alam ke dalam 6 kategori menggunakan dataset Intel Image Classification dari Kaggle.
